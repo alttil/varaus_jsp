@@ -1,0 +1,33 @@
+body {
+	background-color: pink;
+	
+}
+a:link {
+		color: blue;
+	}
+	a:visited {
+		color: green;
+	}
+	a:hover {
+		color: red;
+	}
+	a:active {
+		color: blue;
+	}
+.ylapalkki {
+	border: 1px solid black;
+	background-color: white;
+	text-align: center;
+}
+#tulosAlue {
+	width: 400px;
+	border-radius: 15px;
+	background-color: lightblue;
+}
+#hakuAlue {
+	width: 210px; 
+	border-radius": 15px;
+	background-color: lightgrey;
+	
+	
+}
